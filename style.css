@@ -24,7 +24,7 @@ body{
   background: #4a90e2;
   border-radius: 6px;
   gap: 20px 0; /*連結之間的間隔*/
-  justfy-content: center; /*水平置中*/
+  justify-content: center; /*水平置中*/
 }
 
 .navbar li {
