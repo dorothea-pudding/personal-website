@@ -12,3 +12,30 @@ aside {
   background-color: #eee;
   padding: 15px;
 }
+
+/* 導覽列樣式 */
+.navbar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  background: #4a90e2;
+  border-radius: 6px;
+}
+
+.navbar li {
+  flex: 1;  /* 平均分配寬度 */
+}
+
+.navbar a {
+  display: block;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  background: #357ab7;
+}
