@@ -39,3 +39,28 @@ aside {
 .navbar a:hover {
   background: #357ab7;
 }
+.updates {
+  margin: 20px 0;
+  padding: 15px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.update-box {
+  max-height: 120px;   /* 控制區塊高度 */
+  overflow-y: scroll;  /* 超出就能滾動 */
+  padding: 10px;
+  background: white;
+  border-radius: 6px;
+}
+
+.update-box ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.update-box li {
+  margin-bottom: 6px;
+  font-size: 14px;
+}
