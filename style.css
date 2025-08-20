@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  gap: 20px; /* 區塊間距 */
+}
+section {
+  flex: 3; /* 主要內容佔比較多 */
+  background-color: #f9f9f9;
+  padding: 15px;
+}
+aside {
+  flex: 1; /* 側邊欄比較窄 */
+  background-color: #eee;
+  padding: 15px;
+}
