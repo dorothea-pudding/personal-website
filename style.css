@@ -20,9 +20,11 @@ body{
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
+  display: flex; /*啟用flex排版*/
   background: #4a90e2;
   border-radius: 6px;
+  gap: 20px 0; /*連結之間的間隔*/
+  justfy-content: center; /*水平置中*/
 }
 
 .navbar li {
@@ -39,7 +41,7 @@ body{
 }
 
 .navbar a:hover {
-  background: #357ab7;
+  background: #00108a;/*滑鼠移上去的顏色*/
 }
 .updates {
   margin: 20px 0;
