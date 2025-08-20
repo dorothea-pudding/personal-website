@@ -15,6 +15,7 @@ aside {
 body{
   background-color: #f0f8ff;
 }
+
 /* 導覽列樣式 */
 .navbar {
   list-style: none;
@@ -44,6 +45,8 @@ body{
 .navbar a:hover {
   background: #00108a;/*滑鼠移上去的顏色*/
 }
+
+/*首頁的最近更新*/
 .updates {
   margin: 20px 0;
   padding: 15px;
