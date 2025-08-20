@@ -25,6 +25,7 @@ body{
   border-radius: 6px;
   gap: 20px 0; /*連結之間的間隔*/
   justify-content: center; /*水平置中*/
+  background-color: #e6f2ff;
 }
 
 .navbar li {
@@ -38,6 +39,7 @@ body{
   text-decoration: none;
   color: white;
   font-weight: bold;
+  float: none;
 }
 
 .navbar a:hover {
