@@ -22,7 +22,7 @@ body{
   margin: 0;
   padding: 0;
   display: flex; /*啟用flex排版*/
-  background: #4a90e2;
+  background-color: #4a90e2;
   border-radius: 6px;
   gap: 20px 0; /*連結之間的間隔*/
   justify-content: center; /*水平置中*/
