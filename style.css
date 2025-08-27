@@ -13,7 +13,7 @@ aside {
   padding: 15px;
 }
 body{
-  background-color: #7aaccd;
+  background-color: #76ccf1;
 }
 
 /* 導覽列樣式 */
@@ -22,7 +22,7 @@ body{
   margin: 0;
   padding: 0;
   display: flex; /*啟用flex排版*/
-  background-color: #ae92cc;
+  background-color: #289bd6;
   border-radius: 6px;
   gap: 20px 0; /*連結之間的間隔*/
   justify-content: center; /*水平置中*/
